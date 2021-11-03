@@ -1,4 +1,7 @@
 <a name="top"></a>
+[![Build status](https://ci.appveyor.com/api/projects/status/m9ff0es86fssic21?svg=true)](https://ci.appveyor.com/project/MKSInc/ra-hw-7-hoc-1-time-2-highlight-3-aggregation)
+### [Gh-pages](https://mksinc.github.io/RA-hw.-7-HOC.-1-Time.-2-Highlight.-3-Aggregation/)
+
 # 7. Домашнее задание к лекции «HOC»
 
 **Перейти к:**  
