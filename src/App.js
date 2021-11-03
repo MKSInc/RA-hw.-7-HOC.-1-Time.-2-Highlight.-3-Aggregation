@@ -1,3 +1,5 @@
+import Time from './components/Time/Time';
+
 export default function App() {
 	return (
 		<div className={'wrapper'}>
@@ -21,6 +23,7 @@ export default function App() {
 					</header>
 					<div className={'task__body'}>
 						{/* Компонент задачи 1. */}
+						<Time />
 					</div>
 				</div>
 
