@@ -22,7 +22,7 @@
 
 .item-time__video {
 	position: relative;	
-	padding-bottom: 57%;
+	padding-bottom: 56.25%;
 	margin-bottom: 10px;
 }
 
@@ -35,8 +35,8 @@
 }
 
 .item-time__date {
-	text-align: right;
 	font-size: 80%;
+	text-align: right;
 	color: #cccccc;
 }
 

@@ -1,4 +1,6 @@
 import Time from './components/Time/Time';
+import Highlight from './components/Highlight/Highlight';
+
 
 export default function App() {
 	return (
@@ -45,6 +47,7 @@ export default function App() {
 					</header>
 					<div className={'task__body'}>
 						{/* Компонент задачи 2. */}
+						<Highlight />
 					</div>
 				</div>
 
